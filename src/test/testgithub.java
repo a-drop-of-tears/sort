@@ -10,5 +10,6 @@ public class testgithub {
     public static void main(String[] args) {
         System.out.println("test");
         System.out.println("1231");
+         System.out.println("test");
     }
 }
